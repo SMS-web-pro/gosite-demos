@@ -1,0 +1,20 @@
+{
+  "agent": "Sofia",
+  "task": "Scraper les 24 prospects avec email",
+  "tools": "Serper.dev API",
+  "data_needed": [
+    "nom entreprise",
+    "telephone",
+    "email",
+    "adresse/ville/etat",
+    "services proposes",
+    "horaires",
+    "site web",
+    "photos (3-5)",
+    "avis clients (3 min)",
+    "logo"
+  ],
+  "output": "client_data.json",
+  "deadline": "Avant construction des sites",
+  "status": "EN_ATTENTE"
+}
